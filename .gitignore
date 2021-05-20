@@ -4,7 +4,9 @@ documentation
 tmp
 .classpath
 .project
+
 .idea
+
 *.iml
 *.ipr
 *.iws
